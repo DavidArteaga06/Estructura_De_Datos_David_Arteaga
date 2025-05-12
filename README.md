@@ -1,6 +1,6 @@
 Los métodos de ordenamiento son técnicas utilizadas para organizar datos en un cierto orden, generalmente de menor a mayor o viceversa. En informática, ordenar datos facilita su búsqueda, análisis y procesamiento. Existen varios algoritmos de ordenamiento, cada uno con ventajas y desventajas dependiendo de la cantidad y naturaleza de los datos. Estos son algunos de ellos:
 * Burbuja: Compara elementos adyacentes e intercambia sus posiciones si están desordenados. Se repite varias veces hasta que todo esté en orden. Es simple pero lento para grandes volúmenes de datos.
 * Selección: Encuentra el elemento más pequeño en cada iteración y lo coloca en su posición correcta. Es más eficiente que el burbuja, pero aún puede ser lento en listas grandes.
-* Inserción: Toma cada elemento y lo coloca en la posición correcta dentro de los elementos ya ordenados. Funciona bien con listas pequeñas o casi ordenadas.
+* Inserción: Toma cada elemento y lo coloca en la posición correcta dentro de los elementos ya ordenados. Funciona bien con listas pequeñas o casi ordenadas. 
 * Merge Sort: Divide la lista en partes más pequeñas, las ordena y luego las combina. Es eficiente en muchos casos y se usa mucho en la práctica.
 * Quick Sort: Elige un “pivote”, reorganiza los elementos alrededor de él y repite el proceso en partes más pequeñas de la lista. Es uno de los algoritmos más rápidos y usados.
