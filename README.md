@@ -1,0 +1,3 @@
+Las Torres de Hanói son un rompecabezas matemático clásico inventado por el matemático francés Édouard Lucas en 1883. Consiste en tres postes y varios discos de diferentes tamaños que se pueden deslizar sobre cualquier poste. El rompecabezas comienza con los discos apilados en un poste en orden de tamaño decreciente hacia arriba, formando una forma cónica.
+
+El objetivo del juego es mover toda la pila a otro poste, respetando tres reglas fundamentales: solo se puede mover un disco a la vez, un disco grande no puede colocarse encima de un disco más pequeño, y solo se puede mover el disco superior de una pila. La solución a este aparentemente sencillo juego involucra una secuencia de movimientos que crece exponencialmente con el número de discos.
